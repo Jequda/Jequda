@@ -8,11 +8,30 @@
   <a href="mailto:yaroslav.saxno@inbox.ru">
     <img src="https://img.shields.io/badge/mail-white?logo=maildotru&logoColor=orange&style=for-the-badge" alt="Mail Badge"/>
   </a>
-   <h1>👋 Hi there I'm web developer </h1>
+   <h1>👋 Hello World! </h1>
 </div>
 
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdzbHlua3AydG1tbDUwdGtscTVxcDlpZzFpMjRvdnVna2pvaHQwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="600" height="300"/>
+</div>
 
+### About Me:
+- 🚀 Performance Advocate because every millisecond counts!
+- 🧩 Problem Solver turning bugs into features one line at a time.
+- 🎮 Gamification Guru making web experiences fun and engaging.
+- 🔄 Version Control Virtuoso mastering Git and GitHub like a boss.
+- 🌐 Web Explorer navigating the ever-evolving world of frontend frameworks.
 
+### Fun Facts:
+- 🌈 CSS Ninja who loves gradients and flexbox challenges.
+- 🔍 Debugging Detective solving the mysteries of the DOM.
+- 🎨 Color Palette Enthusiast because choosing the right shade is an art.
+- 🧋 Bubble Tea Aficionado coding fueled by tapioca pearls and sweet sips.
+- 🎮 Gaming Geek who believes life is a series of quests and achievements.
+
+### Let's Connect:
+- ✨ Open to collaborating on awesome projects and sharing knowledge!
+- 💬 Feel free to reach out for a chat about tech, design, or the best bubble tea in town!
 
 ### :hammer_and_wrench: Languages and Tools :
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
