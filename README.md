@@ -2,7 +2,7 @@
 
 
 ### :hammer_and_wrench: Languages and Tools :
-https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
 <!--
 **Jequda/Jequda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
