@@ -16,18 +16,18 @@
 </div>
 
 ### About Me:
-- 🚀 Performance Advocate because every millisecond counts!
-- 🧩 Problem Solver turning bugs into features one line at a time.
-- 🎮 Gamification Guru making web experiences fun and engaging.
-- 🔄 Version Control Virtuoso mastering Git and GitHub like a boss.
-- 🌐 Web Explorer navigating the ever-evolving world of frontend frameworks.
+- 🚀 **Performance Advocate** because every millisecond counts!
+- 🧩 **Problem Solver** turning bugs into features one line at a time.
+- 🎮 **Gamification Guru** making web experiences fun and engaging.
+- 🔄 **Version Control Virtuoso** mastering Git and GitHub like a boss.
+- 🌐 **Web Explorer** navigating the ever-evolving world of frontend frameworks.
 
 ### Fun Facts:
-- 🌈 CSS Ninja who loves gradients and flexbox challenges.
-- 🔍 Debugging Detective solving the mysteries of the DOM.
-- 🎨 Color Palette Enthusiast because choosing the right shade is an art.
-- :tea: Bubble Tea Aficionado coding fueled by tapioca pearls and sweet sips.
-- 🎮 Gaming Geek who believes life is a series of quests and achievements.
+- 🌈 **CSS Ninja** who loves gradients and flexbox challenges.
+- 🔍 **Debugging** Detective solving the mysteries of the DOM.
+- 🎨 **Color Palette Enthusiast** because choosing the right shade is an art.
+- :tea: **Bubble Tea Aficionado** coding fueled by tapioca pearls and sweet sips.
+- 🎮 **Gaming Geek** who believes life is a series of quests and achievements.
 
 ### Let's Connect:
 - ✨ Open to collaborating on awesome projects and sharing knowledge!
