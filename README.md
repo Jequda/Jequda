@@ -1,6 +1,6 @@
-## 👋 Hi there I'm web developer 
-
-
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRnYzBocGM3ZzFqYWQ1dnZ0aWY4aXZ5YjR0MWdpaHdseTkwZTFyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHxQUaJCRSiJRz4ZmV/giphy.gif)" width="100"/>
+</div>
 <div id="badges">
   <a href="https://t.me/JezLeanz">
     <img src="https://img.shields.io/badge/TG-blue?logo=telegram&logoColor=cyan&style=for-the-badge" alt="Telegram Badge"/>
@@ -9,6 +9,12 @@
     <img src="https://img.shields.io/badge/mail-white?logo=maildotru&logoColor=orange&style=for-the-badge" alt="Mail Badge"/>
   </a>
 </div>
+
+
+## 👋 Hi there I'm web developer 
+
+
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
