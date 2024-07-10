@@ -26,7 +26,7 @@
 - 🌈 CSS Ninja who loves gradients and flexbox challenges.
 - 🔍 Debugging Detective solving the mysteries of the DOM.
 - 🎨 Color Palette Enthusiast because choosing the right shade is an art.
-- 🧋 Bubble Tea Aficionado coding fueled by tapioca pearls and sweet sips.
+-  🧋 Bubble Tea Aficionado coding fueled by tapioca pearls and sweet sips.
 - 🎮 Gaming Geek who believes life is a series of quests and achievements.
 
 ### Let's Connect:
