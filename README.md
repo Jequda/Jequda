@@ -1,14 +1,14 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRnYzBocGM3ZzFqYWQ1dnZ0aWY4aXZ5YjR0MWdpaHdseTkwZTFyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHxQUaJCRSiJRz4ZmV/giphy.gif" width="100"/>
-    <a href="https://t.me/JezLeanz">
+</div>
+ <div id="badges" align="center">
+       <a href="https://t.me/JezLeanz">
     <img src="https://img.shields.io/badge/TG-blue?logo=telegram&logoColor=cyan&style=for-the-badge" alt="Telegram Badge"/>
   </a>  
   <a href="mailto:yaroslav.saxno@inbox.ru">
     <img src="https://img.shields.io/badge/mail-white?logo=maildotru&logoColor=orange&style=for-the-badge" alt="Mail Badge"/>
   </a>
 </div>
-<!-- <div id="badges">
-<!-- </div> -->
 
 
 ## 👋 Hi there I'm web developer 
