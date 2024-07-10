@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRnYzBocGM3ZzFqYWQ1dnZ0aWY4aXZ5YjR0MWdpaHdseTkwZTFyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHxQUaJCRSiJRz4ZmV/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRnYzBocGM3ZzFqYWQ1dnZ0aWY4aXZ5YjR0MWdpaHdseTkwZTFyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHxQUaJCRSiJRz4ZmV/giphy.gif" width="200"/>
 </div>
  <div id="badges" align="center">
        <a href="https://t.me/JezLeanz">
