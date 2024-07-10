@@ -15,8 +15,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" title="nextjs" alt="nextjs" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
-
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
 <!--
 **Jequda/Jequda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
