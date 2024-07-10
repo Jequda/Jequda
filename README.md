@@ -2,7 +2,17 @@
 
 
 ### :hammer_and_wrench: Languages and Tools :
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain-wordmark.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
+
+
+
+
+
 <!--
 **Jequda/Jequda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
