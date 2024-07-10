@@ -8,12 +8,9 @@
   <a href="mailto:yaroslav.saxno@inbox.ru">
     <img src="https://img.shields.io/badge/mail-white?logo=maildotru&logoColor=orange&style=for-the-badge" alt="Mail Badge"/>
   </a>
+   <h1>👋 Hi there I'm web developer </h1>
 </div>
 
-
-<div id="welcome" align="center"> 
-## 👋 Hi there I'm web developer 
-</div>
 
 
 
