@@ -1,6 +1,16 @@
 ## 👋 Hi there I'm web developer 
 
 
+<div id="badges">
+  <a href="https://t.me/JezLeanz">
+    <img src="https://img.shields.io/badge/TG-blue?logo=telegram&logoColor=cyan&style=for-the-badge" alt="Telegram Badge"/>
+  </a>  
+  <a href="mailto:yaroslav.saxno@inbox.ru">
+    <img src="https://img.shields.io/badge/mail-white?logo=maildotru&logoColor=orange&style=for-the-badge" alt="Mail Badge"/>
+  </a>
+</div>
+
+
 ### :hammer_and_wrench: Languages and Tools :
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
@@ -21,7 +31,7 @@
 
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jequda&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jequda&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jequda&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
